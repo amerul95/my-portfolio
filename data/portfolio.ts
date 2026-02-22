@@ -120,7 +120,7 @@ export const portfolioData = {
         {
             title: "Prop Firm Application",
             tech: ["Next.js", "PostgreSQL", "Redis", "BullMQ"],
-            link: "https://github.com/amerul95/propfirm-vonway",
+            link: "https://github.com/amerulalimi/propfirm-vonway",
             description: "Monolithic trading evaluation platform with async job processing and structured backend workflows (FTMO-like system).",
             image: ""
         },
@@ -148,7 +148,7 @@ export const portfolioData = {
     ],
     contact: {
         email: "alimiamerul@gmail.com",
-        github: "https://github.com/amerul95",
+        github: "https://github.com/amerulalimi",
         linkedin: "https://linkedin.com/in/amerul-alimi"
     }
 }
