@@ -33,7 +33,7 @@ export const portfolioData = {
         {
             role: "Fullstack Developer",
             company: "Byton Byte Management",
-            period: "2024 – 2026",
+            period: "2023 – 2026",
             responsibilities: [
                 "Architected admin systems for operational management",
                 "Designed database structures using Prisma & PostgreSQL",
