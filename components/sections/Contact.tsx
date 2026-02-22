@@ -62,7 +62,7 @@ export function Contact() {
                         </a>
                     ))}
                 </motion.div>
-
+{/* 
                 <motion.div
                     initial={{ opacity: 0, y: 20 }}
                     whileInView={{ opacity: 1, y: 0 }}
@@ -86,7 +86,7 @@ export function Contact() {
                             Schedule Meeting
                         </a>
                     </Card>
-                </motion.div>
+                </motion.div> */}
             </div>
         </Section>
     )

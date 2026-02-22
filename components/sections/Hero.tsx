@@ -82,7 +82,7 @@ export function Hero() {
                         <Link href="#contact">Hire Me</Link>
                     </Button>
                     <Button size="lg" variant="outline" asChild className="h-12 px-8 text-base">
-                        <a href="/resume.pdf" download>Download CV</a>
+                        <a href="/amerulresume.pdf" download>Download CV</a>
                     </Button>
                 </motion.div>
             </div>
