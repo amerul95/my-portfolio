@@ -3,6 +3,7 @@ export const portfolioData = {
         headline: "Application Systems Building Scalable, Production-Ready Web Applications",
         subheadline: "4 years of experience designing and developing full-stack systems — from financial dashboards and SaaS platforms to backend workflow processing systems.",
         supportingLine: "Specialized in building structured application ecosystems using Next.js, TypeScript, PostgreSQL, Redis, and cloud-native deployment strategies.",
+        image: "/profile.jpg", // Add your image to the public folder (e.g., public/profile.jpg)
     },
     about: {
         description: [
@@ -129,6 +130,20 @@ export const portfolioData = {
             link: "https://digital-wedding-card-tau.vercel.app",
             description: "Dynamic invitation builder system with customizable layouts.",
             image: "/projects/card-builder-digital.png"
+        },
+        {
+            title: "ABHGMS Company Website",
+            tech: ["Next.js", "Tailwind CSS"],
+            link: "https://abhgms.com/",
+            description: "Custom corporate website developed for ABHGMS, focusing on a modern and professional online presence.",
+            image: ""
+        },
+        {
+            title: "Kies Kapit Crunchy",
+            tech: ["Next.js", "Tailwind CSS"],
+            link: "https://kieskapitcrunchy.com/",
+            description: "Custom website built for Kies Kapit Crunchy, showcasing their products and brand identity.",
+            image: ""
         }
     ],
     contact: {
